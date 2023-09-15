@@ -5,4 +5,7 @@ module.exports = {
   implementation(flag) {
     return flag ? 1 : 0
   },
+  speak() {
+    return 'Hello'
+  }
 }
