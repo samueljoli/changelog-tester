@@ -7,5 +7,11 @@ module.exports = {
   },
   speak() {
     return 'Hello'
+  },
+  wave() {
+    return 'Goodbye'
+  },
+  look() {
+    return 'I see you'
   }
 }
