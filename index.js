@@ -7,5 +7,8 @@ module.exports = {
   },
   speak() {
     return 'Hello'
+  },
+  wave() {
+    return 'Goodbye'
   }
 }
