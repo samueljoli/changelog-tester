@@ -10,5 +10,8 @@ module.exports = {
   },
   wave() {
     return 'Goodbye'
+  },
+  look() {
+    return 'I see you'
   }
 }
