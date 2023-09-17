@@ -25,7 +25,7 @@ jobs:
 
       - name: Conventional Changelog Action
         id: changelog
-        uses: lalilul3lo/conventional-changelog-action@ba415124496ce14d48f836d5b8080daa2e8b9b28
+        uses: lalilul3lo/conventional-changelog-action@v4
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           output-file: "false"
