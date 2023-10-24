@@ -12,6 +12,6 @@ module.exports = {
     return 'Goodbye'
   },
   see() {
-    return 'See you'
+    return 'See you soon'
   }
 }
